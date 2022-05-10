@@ -19,6 +19,6 @@ If you want to see the code on your computer, you can clone the repository and i
 And then
 `nodemon app.js`<br>
 Will be public on my <a href="github.com/Juanideni" target="_blank">Github</a> :D 
-But if you want to see the project and you dont want clone the project you can visit this <a href="" target="_blank">URL</a> where is live deployed the app
+
 
 ##Thanks for readme! 👋  By Juan Ignacio Denipoti 
