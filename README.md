@@ -32,4 +32,4 @@ Will be public on my <a href="github.com/Juanideni" target="_blank">Github</a> :
 <hr>
 
 
-#Thanks for readme! 👋  By Juan Ignacio Denipoti 
+<h1>Thanks for readme! 👋  By Juan Ignacio Denipoti </h1>
